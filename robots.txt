@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ignatius-kimeu.github.io/storyfront-imani-events/sitemap.xml

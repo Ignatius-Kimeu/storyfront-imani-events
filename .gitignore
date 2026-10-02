@@ -1,0 +1,8 @@
+# raw uploads and internal working files stay out of the public repo
+SnapInsta*
+Screenshot*
+imani events logo*
+_concepts/
+.claude/
+PROJECT-HANDOFF.md
+desktop.ini
